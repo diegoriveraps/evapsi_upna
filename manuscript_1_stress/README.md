@@ -23,7 +23,7 @@ This folder contains the full R analysis pipeline for the first EVAPSI manuscrip
 
 | File | Description |
 |------|-------------|
-| `evapsi_stress_final.R` | Full analysis script (sequential, top to bottom) |
+| `evapsi_stress.R` | Full analysis script (sequential, top to bottom) |
 
 ---
 

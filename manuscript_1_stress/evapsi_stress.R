@@ -4,7 +4,7 @@
 #
 # Authors:   EVAPSI Research Group
 # Affiliation: Universidad Pública de Navarra (UPNA)
-# Last updated: 2026
+# Last updated: June, 2026
 #
 # Description:
 #   Full analysis pipeline including:
